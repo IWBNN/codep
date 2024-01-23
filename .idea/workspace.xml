@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df1be96f-d508-444e-9ff0-f223c09cfbfa" name="변경" comment="commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2aR5JO7mlTE0bwK9H5GVEgEjWsQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BJ1.executor": "Run",
+    "Application.BJ10.executor": "Run",
+    "Application.BJ10E1.executor": "Run",
+    "Application.BJ11.executor": "Run",
+    "Application.BJ2.executor": "Run",
+    "Application.BJ3.executor": "Run",
+    "Application.BJ4.executor": "Run",
+    "Application.BJ5.executor": "Run",
+    "Application.BJ6.executor": "Run",
+    "Application.BJ7.executor": "Run",
+    "Application.BJ8.executor": "Run",
+    "Application.BJ9.executor": "Run",
+    "Application.BJA1.executor": "Run",
+    "Application.BJA2.executor": "Run",
+    "Application.BJA3.executor": "Run",
+    "Application.BJA4.executor": "Run",
+    "Application.BJA5.executor": "Run",
+    "Application.BJA5E1.executor": "Run",
+    "Application.BJA6.executor": "Run",
+    "Application.BJC1.executor": "Run",
+    "Application.BJC2.executor": "Run",
+    "Application.BJC3.executor": "Run",
+    "Application.BJC4.executor": "Run",
+    "Application.BJC5.executor": "Run",
+    "Application.BJC6.executor": "Run",
+    "Application.BJS41.executor": "Run",
+    "Application.BJS42.executor": "Run",
+    "Application.BJS43.executor": "Run",
+    "Application.BJS44.executor": "Run",
+    "Application.BJS45.executor": "Run",
+    "Application.BJS46.executor": "Run",
+    "Application.BJS51.executor": "Run",
+    "Application.BJS510.executor": "Run",
+    "Application.BJS52.executor": "Run",
+    "Application.BJS53.executor": "Run",
+    "Application.BJS54.executor": "Run",
+    "Application.BJS55.executor": "Run",
+    "Application.BJS56.executor": "Run",
+    "Application.BJS57.executor": "Run",
+    "Application.BJS58.executor": "Run",
+    "Application.BJS59.executor": "Run",
+    "Application.BJStack.executor": "Run",
+    "Application.BJStack2.executor": "Run",
+    "Application.BJStack4.executor": "Run",
+    "Application.BJStack5.executor": "Run",
+    "Application.BJStack6.executor": "Run",
+    "Application.BJStack8.executor": "Run",
+    "Application.BJVPS.executor": "Run",
+    "Application.DaoExample.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/강건/IdeaProjects/KDT01",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.ftsf.executor": "Run",
+    "애플리케이션.ozftz.executor": "Run"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="df1be96f-d508-444e-9ff0-f223c09cfbfa" name="변경" comment="" />
+      <created>1704268482416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704268482416</updated>
+      <workItem from="1704268483521" duration="456000" />
+      <workItem from="1704268957667" duration="1974000" />
+      <workItem from="1704270949986" duration="649000" />
+      <workItem from="1704327606932" duration="197000" />
+      <workItem from="1704327814532" duration="159000" />
+      <workItem from="1704327984745" duration="47000" />
+      <workItem from="1704351299820" duration="6720000" />
+      <workItem from="1704429599964" duration="250000" />
+      <workItem from="1704433117937" duration="32000" />
+      <workItem from="1704440441081" duration="1501000" />
+      <workItem from="1704443055752" duration="8000" />
+      <workItem from="1704443094156" duration="1376000" />
+      <workItem from="1704695647837" duration="11000" />
+      <workItem from="1704700914163" duration="61000" />
+      <workItem from="1704700992937" duration="903000" />
+      <workItem from="1704702040020" duration="1270000" />
+      <workItem from="1704787281619" duration="3685000" />
+      <workItem from="1704866529313" duration="9413000" />
+      <workItem from="1705035250663" duration="13838000" />
+      <workItem from="1705305163475" duration="3127000" />
+      <workItem from="1705381894603" duration="10349000" />
+      <workItem from="1705637771744" duration="2218000" />
+      <workItem from="1705640005270" duration="12884000" />
+      <workItem from="1705885819904" duration="3000" />
+      <workItem from="1705907607152" duration="5373000" />
+      <workItem from="1705986747036" duration="9228000" />
+      <workItem from="1705996458284" duration="2313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="변경" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
