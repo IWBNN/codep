@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayDeque;
 
-public class BJStack8 { //BJStack7 = BJS44 sdgsdgjksdjkfhsd
+public class BJStack8 { //BJStack7 = BJS44 sdgsdgjksdjkfhsdsacfasfsdgsd
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
