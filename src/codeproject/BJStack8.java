@@ -15,7 +15,7 @@ public class BJStack8 { //BJStack7 = BJS44
 
         int N = Integer.parseInt(br.readLine());
 
-        for (int i = 0; i < N; i++) {
+        for (int i = 0; i < N; i++) { //anjsckdlsep tlqkf
 
             String[] s = br.readLine().split(" ");
 
