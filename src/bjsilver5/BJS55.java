@@ -25,6 +25,7 @@ public class BJS55 { // 1251
 //        String reverse3 = sb3.reverse().toString();
 //        System.out.println(reverse1+reverse2+reverse3);
     public static void main(String[] args) throws IOException {
+
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String str = br.readLine();
         LinkedList<String> list = new LinkedList<>();

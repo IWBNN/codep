@@ -1,21 +1,27 @@
 package bjsilver5;
-import java.util.Scanner;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
 public class BJS57 {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+    public static void main(String[] args) throws IOException { // 1312
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
 //        double T = (21.0 / 5.0);
 //        System.out.println(T);
+        StringTokenizer st = new StringTokenizer(br.readLine());
 
+        int a = Integer.parseInt(st.nextToken());
+        int b = Integer.parseInt(st.nextToken());
+        int c = Integer.parseInt(st.nextToken());
+        int sum = 0;
 
-        String userInput = scanner.nextLine();
-        String[] AA = userInput.split(" ");
-
-        double a = Double.parseDouble(AA[0]);
-        double b = Double.parseDouble(AA[1]);
-        int c = Integer.parseInt(AA[2]);
-
-        double sum = ((a / b) * (Math.pow(10.0,c)) % 10);
-        System.out.println((int) sum);
+        for(int i =0;i<c;i++){
+            a = (a%b) * 10;
+            sum = a/b;
+        }
+        System.out.println(sum);
     }
 }

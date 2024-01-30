@@ -2,7 +2,7 @@ package bjsilver5;
 
 import java.util.Scanner;
 
-public class BJS510 {
+public class BJS510 { //1418
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
