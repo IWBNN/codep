@@ -2,7 +2,7 @@ package bjsilver4;
 
 import java.util.Scanner;
 
-public class BJS41 {
+public class BJS41 { //1018
 
     public static boolean[][] arr;
     public static int min = 64;

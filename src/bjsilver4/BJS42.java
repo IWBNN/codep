@@ -2,7 +2,7 @@ package bjsilver4;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
-public class BJS42 {
+public class BJS42 { //1026
     public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
