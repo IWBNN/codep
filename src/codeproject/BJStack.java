@@ -3,7 +3,7 @@ import java.util.Objects;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class BJStack {
+public class BJStack { //10828 (시간초과)
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Stack<Integer> stackInt = new Stack<>();
