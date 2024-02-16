@@ -10,7 +10,7 @@ public class BJDS10799 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         String str = br.readLine();
-        boolean lazer = false;
+        boolean lazer = false;  // 안써도 됐었음
         int pipeCount = 0;
         int sum = 0;
         Stack<Character> stack = new Stack<>();
