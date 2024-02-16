@@ -10,7 +10,7 @@ public class BJDS10799 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         String str = br.readLine();
-        boolean lazer = false;  // 안써도 됐었음
+//        boolean lazer = false;  // 안써도 됐었음
         int pipeCount = 0;
         int sum = 0;
         Stack<Character> stack = new Stack<>();
@@ -18,7 +18,7 @@ public class BJDS10799 {
         for(int i = 0;i < str.length();i++){
             if (str.charAt(i) == '('){
                 stack.push(str.charAt(i));
-                lazer = true;
+//                lazer = true;
                 pipeCount++;
             }
             if (str.charAt(i)==')'){
